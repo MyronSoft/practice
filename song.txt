@@ -1,2 +1,4 @@
 new song 
 new song
+from git 
+to computer
